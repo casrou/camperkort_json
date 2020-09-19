@@ -1,1 +1,44 @@
-{"1 Parking StellPlatz NO FRICAMP": [{"name": "Havm\u00f8llevej 10", "loc": "10.7793476,56.245204,0"}, {"name": "Lilleringvej 51\u00a0", "loc": "9.951851,56.139777,0"}, {"name": "Eg\u00e5 Marina", "loc": "10.286591,56.2096,0"}, {"name": "Skakkes Holm 62", "loc": "10.9234246,56.4053333,0"}, {"name": "Kristiansmindevej 14", "loc": "10.8269811,56.4371786,0"}, {"name": "Industriparken 20", "loc": "10.3463829,56.469323,0"}, {"name": "Havnegade 6", "loc": "10.0151357,55.7144472,0"}, {"name": "Brejning Strand 104", "loc": "9.6889888,55.6739983,0"}, {"name": "Jesper Banks Vej", "loc": "9.7278759,55.5524469,0"}, {"name": "Kolding Lystb\u00e5dehavn", "loc": "9.499663,55.487397,0"}]}
+{
+   "1 Parking StellPlatz NO FRICAMP":[
+      {
+         "name":"Havm\u00f8llevej 10",
+         "loc":"10.7793476,56.245204,0"
+      },
+      {
+         "name":"Lilleringvej 51\u00a0",
+         "loc":"9.951851,56.139777,0"
+      },
+      {
+         "name":"Eg\u00e5 Marina",
+         "loc":"10.286591,56.2096,0"
+      },
+      {
+         "name":"Skakkes Holm 62",
+         "loc":"10.9234246,56.4053333,0"
+      },
+      {
+         "name":"Kristiansmindevej 14",
+         "loc":"10.8269811,56.4371786,0"
+      },
+      {
+         "name":"Industriparken 20",
+         "loc":"10.3463829,56.469323,0"
+      },
+      {
+         "name":"Havnegade 6",
+         "loc":"10.0151357,55.7144472,0"
+      },
+      {
+         "name":"Brejning Strand 104",
+         "loc":"9.6889888,55.6739983,0"
+      },
+      {
+         "name":"Jesper Banks Vej",
+         "loc":"9.7278759,55.5524469,0"
+      },
+      {
+         "name":"Kolding Lystb\u00e5dehavn",
+         "loc":"9.499663,55.487397,0"
+      }
+   ]
+}
